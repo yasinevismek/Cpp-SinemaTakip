@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\yasin\desktop\cppsinema\project1\project1\musteri.h(27): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Yasin\Desktop\cppsinema\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Yasin\Desktop\cppsinema\Project1\Debug\Project1.pdb (Partial PDB)

@@ -1,0 +1,49 @@
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+void filmler()
+{
+	    	cout << "***********************************" <<" "  << "***********************************" << endl;
+		cout << "*                                 *" <<" "  << "*                                 *" << endl;
+		cout << "*         1- Arif v 216           *" <<" "  << "*         2- Logan                *" << endl;
+		cout << "*                                 *" <<" "  << "*                                 *" << endl;
+		cout << "*    -Komedi / Bilim Kurgu        *" <<" "  << "*    -Gerilim / Bilim Kurgu       *" << endl;
+		cout << "*    -Vizyon Tarih: 2018          *" <<" "  << "*    -Vizyon Tarih: 2017          *" << endl;
+		cout << "*    -Yonetmen: Kivanc Baruonu    *" <<" "  << "*    -Yonetmen: James Mangold     *" << endl;
+		cout << "*    -Oyuncular:                  *" <<" "  << "*    -Oyuncular:                  *" << endl;
+		cout << "*          +Cem Yilmaz            *" <<" "  << "*          +Hugh Jackman          *" << endl;
+		cout << "*          +Ozan Guven            *" <<" "  << "*          +Dafne Keen            *" << endl;
+		cout << "*    -Film Aciklama:              *" <<" "  << "*     -Film Aciklama:             *" << endl;
+		cout << "*      Arif ve 216'nin uzay       *" <<" "  << "*       Efsanevi Wolverine'nin    *" << endl;
+		cout << "*          maceralari             *" <<" "  << "*           son filmi             *" << endl;
+		cout << "*                                 *" <<" "  << "*                                 *" << endl;
+		cout << "*             Salon 1             *" <<" "  << "*             Salon 2             *" << endl;
+		cout << "*                                 *" <<" "  << "*                                 *" << endl;
+		cout << "*        101 - 11.30  Seansi      *" <<" "  << "*       103 - 16.00  Seansi       *" << endl;
+		cout << "*        102 - 15.00  Seansi      *" << " " << "*       104 - 22.00  Seansi       *" << endl;
+		cout << "*                                 *" <<" "  << "*                                 *" << endl;
+		cout << "***********************************" <<" "  << "***********************************" << endl;
+		cout <<endl;
+		cout << "***********************************" << " " << "***********************************" << endl;
+		cout << "*                                 *" << " " << "*                                 *" << endl;
+		cout << "*         3- Wonder Woman         *" << " " << "*         4- Ayla                 *" << endl;
+		cout << "*                                 *" << " " << "*                                 *" << endl;
+		cout << "*    -Fantastik / Bilim Kurgu     *" << " " << "*    -Drama / Tarih               *" << endl;
+		cout << "*    -Vizyon Tarih: 2017          *" << " " << "*    -Vizyon Tarih: 2017          *" << endl;
+		cout << "*    -Yonetmen:  Patty Jenkins    *" << " " << "*    -Yonetmen: Can Ulkay         *" << endl;
+		cout << "*    -Oyuncular:                  *" << " " << "*    -Oyuncular:                  *" << endl;
+		cout << "*          +Gal Gadot             *" << " " << "*          +Ismail Hacioglu       *" << endl;
+		cout << "*          +Chris Pine            *" << " " << "*          +Ali Atay              *" << endl;
+		cout << "*    -Film Aciklama:              *" << " " << "*    -Film Aciklama:              *" << endl;
+		cout << "*      Diana'nin Wonder Woman     *" << " " << "*      Kore Savasi sirasinda      *" << endl;
+		cout << "*          olus hikayesi          *" << " " << "*      gecen dramatik hikaye      *" << endl;
+		cout << "*                                 *" << " " << "*                                 *" << endl;
+		cout << "*             Salon 6             *" << " " << "*             Salon 8             *" << endl;
+		cout << "*                                 *" << " " << "*                                 *" << endl;
+		cout << "*        105 - 13.00  Seansi      *" << " " << "*       107 - 11.00  Seansi       *" << endl;
+		cout << "*        106 - 21.00  Seansi      *" << " " << "*       108 - 16.00  Seansi       *" << endl;
+		cout << "*                                 *" << " " << "*                                 *" << endl;
+		cout << "***********************************" << " " << "***********************************" << endl;
+}
+
